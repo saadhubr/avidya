@@ -26,6 +26,7 @@ In yoga, `avidya` is often referred to as living with conviction that what is im
 * [Core build](https://raw.githubusercontent.com/itsraina/avidya/master/core.js) ([~4 kB gzipped](https://raw.githubusercontent.com/itsraina/itsraina/master/core.min.js))
 * [Full build](https://raw.githubusercontent.com/itsraina/avidya/master/avidya.js) ([~24 kB gzipped](https://raw.githubusercontent.com/itsraina/avidya/master/avidya.min.js))
 * [CDN copies](https://www.jsdelivr.com/projects/avidya) [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/avidya/badge)](https://www.jsdelivr.com/package/npm/avidya)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fitsraina%2Favidya.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fitsraina%2Favidya?ref=badge_shield)
 
 ## Installation
 
@@ -89,3 +90,7 @@ Clone this [project from github](https://github.com/itsraina/avidya)
 [streams]: http://nodejs.org/api/stream.html
 
 ## Avidya.js Contributors
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fitsraina%2Favidya.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fitsraina%2Favidya?ref=badge_large)
